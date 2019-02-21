@@ -1,0 +1,5 @@
+This file is used to test Draft PR feature.
+
+I will try draft pull request feature with this git project.
+
+Just tried. Yes, it works!
